@@ -1,0 +1,86 @@
+{
+  "title": "7-Day Meal Prep Recipes for the Whole Week",
+  "slug": "healthy-meal-prep-recipes-week",
+  "description": "Spend 2 hours on Sunday and have healthy meals ready for the entire week. This complete meal prep guide includes breakfast, lunch, and dinner recipes for 7 days.",
+  "coverImage": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1200&q=80",
+  "category": "healthy-recipes",
+  "date": "2026-07-05",
+  "author": "Sarah Mitchell",
+  "readingTime": "10 min read",
+  "tags": ["meal prep", "weekly meals", "batch cooking", "weight loss", "time saving"],
+  "featured": true,
+  "seo": {
+    "title": "7-Day Meal Prep Guide — Breakfast, Lunch & Dinner",
+    "description": "Prep a full week of healthy meals in just 2 hours. Complete shopping list, recipes, and storage tips included."
+  },
+  "pinterest": {
+    "title": "Complete 7-Day Meal Prep Guide",
+    "description": "Spend Sunday prepping and eat healthy all week long."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Meal prepping is the single most effective strategy for staying on track with your nutrition goals. When healthy food is already prepared and waiting in the fridge, you are far less likely to reach for something unhealthy when hunger strikes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to Prep on Sunday"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Overnight oats (5 jars) for weekday breakfasts",
+        "Hard-boiled eggs (12) for snacks and salads",
+        "Roasted vegetables — broccoli, sweet potato, bell peppers",
+        "Cooked grain base — brown rice or quinoa (2 cups dry)",
+        "Grilled chicken breast (4 pieces, ~150g each)",
+        "Washed and chopped salad greens",
+        "Portioned nuts and fruit for snacks"
+      ]
+    },
+    {
+      "type": "affiliate_card",
+      "productId": "meal-prep-containers"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Day-by-Day Meal Schedule"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monday through Friday follow a simple rotation: overnight oats or eggs for breakfast, grain bowl with protein for lunch, and a cooked protein with roasted vegetables for dinner. Weekends are for flexible eating with the batch-cooked staples still on hand."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "text": "Label each container with the day and meal to make grabbing the right thing effortless. Use masking tape and a marker for a low-cost system."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Storage & Food Safety Tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cooked proteins last 4 days in the fridge. If you are prepping for a full 7 days, cook chicken on Sunday and Wednesday, or freeze half on Sunday to thaw mid-week. Raw vegetables last 5–7 days if stored dry. Always cool food completely before sealing containers to prevent condensation."
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How long does meal prepped food last in the fridge?",
+          "answer": "Cooked proteins like chicken and fish last 3–4 days. Grains and roasted veggies last 4–5 days. Overnight oats last up to 5 days. Raw salad greens last 3–4 days if stored dry."
+        },
+        {
+          "question": "What containers are best for meal prep?",
+          "answer": "Glass containers are ideal because they do not absorb odors, are microwave-safe, and last for years. Look for airtight lids to keep food fresh longer."
+        }
+      ]
+    }
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["7-day-clean-eating-meal-plan", "easy-high-protein-breakfast-ideas", "1500-calorie-meal-plan"]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "12 Foods That Help Burn Belly Fat",
+  "slug": "best-foods-burn-belly-fat",
+  "description": "No single food burns belly fat directly, but these 12 evidence-based choices reduce visceral fat by improving insulin sensitivity, reducing cortisol, and boosting metabolism.",
+  "coverImage": "https://images.unsplash.com/photo-1467721703907-dbe57b8c4ed3?w=1200&q=80",
+  "category": "healthy-foods",
+  "date": "2026-06-15",
+  "author": "Dr. Emma Torres",
+  "readingTime": "7 min read",
+  "tags": ["belly fat", "visceral fat", "weight loss", "metabolism", "healthy foods"],
+  "featured": false,
+  "seo": {
+    "title": "12 Foods That Help Burn Belly Fat (Science-Backed)",
+    "description": "Discover 12 science-backed foods that help reduce visceral belly fat by improving metabolism, insulin sensitivity, and hormone balance."
+  },
+  "pinterest": {"title": "12 Foods That Help Burn Belly Fat", "description": "Science-backed foods that target stubborn belly fat."},
+  "content": [
+    {"type": "paragraph", "text": "Spot reduction of fat is a myth — you cannot target belly fat with specific foods. However, certain foods significantly reduce visceral (deep belly) fat by addressing its root causes: elevated insulin, high cortisol, chronic inflammation, and poor gut microbiome composition."},
+    {"type": "heading", "level": 2, "text": "12 Science-Backed Foods"},
+    {"type": "list", "style": "ol", "items": ["Green tea — EGCG catechins increase fat oxidation by ~4%", "Eggs — high protein reduces ghrelin (hunger hormone)", "Fatty fish — omega-3s reduce visceral fat accumulation", "Apple cider vinegar — improves insulin sensitivity after meals", "Chili peppers — capsaicin boosts metabolism by 4–5%", "Coconut oil (limited) — medium-chain triglycerides reduce waist circumference", "Almonds — fiber + protein + healthy fats reduce belly fat in studies", "Greek yogurt — protein and probiotics target visceral fat", "Avocado — monounsaturated fat improves fat distribution", "Blueberries — anthocyanins reduce visceral fat accumulation", "Whole grains — fiber reduces cortisol-driven belly fat storage", "Olive oil — oleic acid and polyphenols reduce abdominal adiposity"]},
+    {"type": "callout", "variant": "warning", "text": "No food alone melts belly fat. These foods work best as part of a calorie-controlled diet combined with regular resistance training and adequate sleep (7–9 hours)."},
+    {"type": "faq", "items": [
+      {"question": "What causes stubborn belly fat?", "answer": "Visceral belly fat accumulates due to chronic calorie surplus, high cortisol from stress, sleep deprivation, insulin resistance (especially from sugar/refined carbs), and low physical activity. Addressing all these factors simultaneously is the most effective approach."},
+      {"question": "How quickly can I lose belly fat?", "answer": "With a consistent calorie deficit of 500 calories/day plus 3–4 strength training sessions per week, most people can lose 1–2 inches of waist circumference per month. Visceral fat responds well to exercise — often faster than subcutaneous fat."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["1500-calorie-meal-plan", "hiit-workout-plan-fat-loss", "best-ab-workouts-flat-stomach"]
+}

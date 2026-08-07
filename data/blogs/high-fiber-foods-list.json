@@ -1,0 +1,29 @@
+{
+  "title": "20 High-Fiber Foods to Eat Every Day",
+  "slug": "high-fiber-foods-list",
+  "description": "Most Americans get only half the recommended fiber intake. These 20 high-fiber foods make it easy to reach 25–38g per day for better digestion, heart health, and weight management.",
+  "coverImage": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+  "category": "healthy-foods",
+  "date": "2026-07-08",
+  "author": "Dr. Emma Torres",
+  "readingTime": "6 min read",
+  "tags": ["fiber", "digestion", "gut health", "high fiber foods", "heart health"],
+  "featured": false,
+  "seo": {
+    "title": "20 Best High-Fiber Foods (With Fiber Content Per Serving)",
+    "description": "Boost your fiber intake with these 20 high-fiber foods. Complete list with fiber content per serving and easy ways to add them to your diet."
+  },
+  "pinterest": {"title": "20 High-Fiber Foods to Eat Daily", "description": "Boost digestion and gut health with these fiber-rich foods."},
+  "content": [
+    {"type": "paragraph", "text": "Dietary fiber is one of the most powerful — and underconsumed — nutrients in modern diets. It feeds beneficial gut bacteria, slows digestion to stabilize blood sugar, reduces LDL cholesterol, and is strongly associated with reduced risk of colon cancer."},
+    {"type": "heading", "level": 2, "text": "Top 20 High-Fiber Foods"},
+    {"type": "list", "style": "ol", "items": ["Lentils — 15.6g per cooked cup", "Split peas — 16.3g per cooked cup", "Black beans — 15g per cooked cup", "Chickpeas — 12.5g per cooked cup", "Chia seeds — 10.6g per 2 tbsp", "Avocado — 9.2g per whole fruit", "Raspberries — 8g per cup", "Oats — 4g per dry half-cup", "Almonds — 3.5g per 1 oz (23 almonds)", "Quinoa — 5.2g per cooked cup", "Broccoli — 5.1g per cooked cup", "Sweet potato — 4g per medium", "Pears — 5.5g per medium", "Artichoke — 10.3g per cooked medium", "Flaxseeds — 2.8g per tbsp", "Edamame — 8g per cup", "Sunflower seeds — 3.1g per 1 oz", "Brown rice — 3.5g per cooked cup", "Barley — 6g per cooked cup", "Kidney beans — 11.3g per cooked cup"]},
+    {"type": "callout", "variant": "info", "text": "Increase fiber intake gradually (add 3–5g per week) and drink plenty of water. Jumping to 38g per day too quickly can cause bloating and gas as your gut microbiome adjusts."},
+    {"type": "faq", "items": [
+      {"question": "How much fiber should I eat per day?", "answer": "Women should aim for 21–25g per day and men for 30–38g per day. Most people consume only 10–15g — well below the recommended amount."},
+      {"question": "What are the symptoms of not eating enough fiber?", "answer": "Constipation, blood sugar spikes after meals, high LDL cholesterol, frequent hunger shortly after eating, and poor gut microbiome diversity are all common signs of insufficient fiber intake."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["gut-health-foods", "best-superfoods-for-energy", "anti-inflammatory-recipes"]
+}

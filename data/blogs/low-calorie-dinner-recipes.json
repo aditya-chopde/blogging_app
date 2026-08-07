@@ -1,0 +1,83 @@
+{
+  "title": "Low-Calorie Dinner Recipes Under 400 Calories",
+  "slug": "low-calorie-dinner-recipes",
+  "description": "These 8 satisfying low-calorie dinner recipes prove that healthy eating doesn't have to be boring. Each meal is under 400 calories and ready in 30 minutes.",
+  "coverImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&q=80",
+  "category": "healthy-recipes",
+  "date": "2026-07-10",
+  "author": "Sarah Mitchell",
+  "readingTime": "6 min read",
+  "tags": ["low calorie", "dinner", "weight loss", "quick meals", "healthy eating"],
+  "featured": false,
+  "seo": {
+    "title": "8 Low-Calorie Dinner Recipes Under 400 Calories",
+    "description": "Healthy, satisfying dinners under 400 calories. Quick 30-minute meals perfect for weight loss without sacrificing flavor."
+  },
+  "pinterest": {
+    "title": "Delicious Dinners Under 400 Calories",
+    "description": "8 satisfying low-calorie dinner recipes ready in 30 minutes."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "One of the biggest myths about healthy eating is that low-calorie food is bland and unsatisfying. These eight recipes prove otherwise — each is packed with flavor, protein, and fiber to keep you full without busting your calorie budget."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8 Satisfying Dinners Under 400 Calories"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Lemon Garlic Shrimp Zoodles — 285 calories, 28g protein",
+        "Turkey Taco Lettuce Wraps — 320 calories, 32g protein",
+        "Cauliflower Fried Rice with Egg — 290 calories, 14g protein",
+        "Baked Lemon Herb Salmon with Asparagus — 380 calories, 35g protein",
+        "Black Bean & Veggie Stuffed Peppers — 350 calories, 16g protein",
+        "Chicken & Broccoli Stir Fry (no rice) — 310 calories, 38g protein",
+        "Tomato Basil Zucchini Noodle Pasta — 260 calories, 12g protein",
+        "Spicy Thai Chicken Lettuce Cups — 295 calories, 30g protein"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Baked Lemon Herb Salmon (Full Recipe)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Preheat oven to 400°F. Place 2 salmon fillets on a lined baking sheet. Drizzle with 1 tsp olive oil, squeeze half a lemon, and season with garlic powder, dill, salt, and pepper. Arrange asparagus spears alongside and roast for 12–15 minutes. The result is a restaurant-quality 380-calorie meal in under 20 minutes."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Swap white rice and pasta for zucchini noodles or cauliflower rice to cut 200+ calories from your dinner without feeling deprived."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Macros & Meal Planning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keeping dinners under 400 calories leaves room for a filling breakfast and lunch while staying within a 1400–1600 calorie daily target suitable for most women seeking moderate weight loss. Men can add a side salad or extra protein to scale up to 500 calories."
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I make low-calorie meals more filling?",
+          "answer": "Prioritize high-volume, low-calorie foods like leafy greens, cucumbers, and broth-based soups. Add lean protein (chicken, shrimp, tofu) to every meal and include fiber from vegetables and legumes."
+        },
+        {
+          "question": "Can I meal prep low-calorie dinners?",
+          "answer": "Yes. Most of these recipes store well in the fridge for 3–4 days. Cook proteins in bulk on Sunday and pair them with different veggie sides throughout the week."
+        }
+      ]
+    }
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["healthy-meal-prep-recipes-week", "1500-calorie-meal-plan", "anti-inflammatory-recipes"]
+}

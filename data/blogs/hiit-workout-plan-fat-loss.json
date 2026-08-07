@@ -1,0 +1,32 @@
+{
+  "title": "4-Week HIIT Workout Plan for Fat Loss",
+  "slug": "hiit-workout-plan-fat-loss",
+  "description": "High-intensity interval training burns 25-30% more calories than steady-state cardio. This 4-week HIIT plan progressively increases intensity for maximum fat loss.",
+  "coverImage": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?w=1200&q=80",
+  "category": "workout-plans",
+  "date": "2026-07-15",
+  "author": "Jake Reynolds",
+  "readingTime": "8 min read",
+  "tags": ["HIIT", "fat loss", "cardio", "4 week plan", "intervals"],
+  "featured": true,
+  "seo": {
+    "title": "4-Week HIIT Workout Plan for Fat Loss (With Weekly Schedule)",
+    "description": "Burn fat fast with this 4-week progressive HIIT plan. Weekly schedules, workout examples, and science-backed tips included."
+  },
+  "pinterest": {"title": "4-Week HIIT Plan for Fat Loss", "description": "Progressive HIIT workouts to burn fat in just 4 weeks."},
+  "content": [
+    {"type": "paragraph", "text": "HIIT (High-Intensity Interval Training) alternates between maximum-effort bursts and active rest. This creates an 'afterburn effect' (EPOC) where your body continues burning calories at an elevated rate for 14–72 hours after exercise."},
+    {"type": "heading", "level": 2, "text": "4-Week Progressive Schedule"},
+    {"type": "list", "style": "ul", "items": ["Week 1: 20 seconds on / 40 seconds rest, 15 minutes, 3x/week", "Week 2: 25 seconds on / 35 seconds rest, 18 minutes, 3x/week", "Week 3: 30 seconds on / 30 seconds rest, 20 minutes, 4x/week", "Week 4: 40 seconds on / 20 seconds rest, 25 minutes, 4x/week"]},
+    {"type": "heading", "level": 2, "text": "Sample HIIT Circuit (Week 3)"},
+    {"type": "list", "style": "ol", "items": ["Jump squats — 30 sec", "Rest — 30 sec", "Burpees — 30 sec", "Rest — 30 sec", "Mountain climbers — 30 sec", "Rest — 30 sec", "High knees — 30 sec", "Rest — 30 sec", "Repeat 4 rounds"]},
+    {"type": "callout", "variant": "warning", "text": "Do not do HIIT more than 4 days per week. Unlike steady-state cardio, HIIT is very taxing on the central nervous system. Overtraining leads to injury and hormonal disruption."},
+    {"type": "affiliate_card", "productId": "fitbit-charge6"},
+    {"type": "faq", "items": [
+      {"question": "Is HIIT better than steady-state cardio for fat loss?", "answer": "HIIT burns more calories per minute and creates significant EPOC (afterburn). However, both work. HIIT is more time-efficient, while steady-state cardio is lower impact and easier to recover from. Combining both in a weekly routine is optimal."},
+      {"question": "Can I do HIIT every day?", "answer": "No. HIIT requires 48–72 hours of recovery between sessions. Doing it daily leads to overtraining, increased cortisol (which promotes fat storage), injury risk, and performance decline."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["cardio-workouts-at-home", "best-ab-workouts-flat-stomach", "best-foods-burn-belly-fat"]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Full-Body Dumbbell Workout (30 Minutes)",
+  "slug": "full-body-dumbbell-workout",
+  "description": "This efficient 30-minute full-body dumbbell workout hits every major muscle group with compound movements for maximum strength and calorie burn.",
+  "coverImage": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=1200&q=80",
+  "category": "workouts",
+  "date": "2026-07-14",
+  "author": "Jake Reynolds",
+  "readingTime": "6 min read",
+  "tags": ["dumbbell workout", "full body", "30 minutes", "strength", "home gym"],
+  "featured": true,
+  "seo": {
+    "title": "30-Minute Full-Body Dumbbell Workout (For All Levels)",
+    "description": "Complete full-body dumbbell workout in 30 minutes. Compound exercises hitting every muscle group for strength and fat loss."
+  },
+  "pinterest": {"title": "30-Min Full-Body Dumbbell Workout", "description": "Hit every muscle in just 30 minutes with this dumbbell circuit."},
+  "content": [
+    {"type": "paragraph", "text": "Dumbbells are one of the most versatile training tools available. Unlike barbells, they require greater stabilizer muscle activation and allow for a greater range of motion. This circuit pairs a push, pull, and leg exercise in each superset for maximum efficiency."},
+    {"type": "heading", "level": 2, "text": "The Workout (3 Rounds, 45s on / 15s rest)"},
+    {"type": "list", "style": "ol", "items": ["Dumbbell Goblet Squat", "Dumbbell Bent-Over Row", "Dumbbell Push Press", "Romanian Deadlift", "Dumbbell Chest Press (floor)", "Dumbbell Renegade Row", "Dumbbell Reverse Lunge", "Dumbbell Bicep Curl to Press", "Dumbbell Lateral Raises", "Core: Dumbbell Russian Twist"]},
+    {"type": "callout", "variant": "tip", "text": "Choose a weight where the last 3 reps of each exercise feel challenging but controlled. If you can do 45 seconds easily, the weight is too light."},
+    {"type": "affiliate_card", "productId": "adjustable-dumbbells"},
+    {"type": "faq", "items": [
+      {"question": "What dumbbell weight should I start with?", "answer": "Beginners should start with lighter weights (5–15 lbs for women, 15–25 lbs for men) to learn proper form before increasing load. Adjustable dumbbells let you progress without buying multiple pairs."},
+      {"question": "Is 30 minutes of dumbbell training enough?", "answer": "Yes, if intensity is high. Research shows 30 minutes of focused resistance training 3–4 times per week produces significant improvements in strength, muscle, and body composition."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["strength-training-plan-women", "home-workout-plan-no-equipment", "best-home-gym-equipment"]
+}

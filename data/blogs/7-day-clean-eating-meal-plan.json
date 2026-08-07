@@ -1,0 +1,35 @@
+{
+  "title": "7-Day Clean Eating Meal Plan",
+  "slug": "7-day-clean-eating-meal-plan",
+  "description": "A complete 7-day clean eating meal plan with breakfast, lunch, dinner, and snacks. Includes shopping list and macros for each day.",
+  "coverImage": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=1200&q=80",
+  "category": "meal-plans",
+  "date": "2026-07-20",
+  "author": "Dr. Emma Torres",
+  "readingTime": "9 min read",
+  "tags": ["clean eating", "meal plan", "7 day", "whole foods", "weight loss"],
+  "featured": true,
+  "seo": {
+    "title": "7-Day Clean Eating Meal Plan (With Shopping List)",
+    "description": "Follow this 7-day clean eating meal plan to reset your diet. Complete with breakfast, lunch, dinner, snacks, and a full shopping list."
+  },
+  "pinterest": {
+    "title": "7-Day Clean Eating Meal Plan",
+    "description": "A complete week of clean, whole-food meals. Shopping list included."
+  },
+  "content": [
+    {"type": "paragraph", "text": "Clean eating is not a diet — it is a philosophy. The focus is on whole, minimally processed foods and eliminating refined sugars, artificial additives, and processed oils. This 7-day plan is built around real food that tastes great and fuels your body optimally."},
+    {"type": "heading", "level": 2, "text": "Clean Eating Rules for This Plan"},
+    {"type": "list", "style": "ul", "items": ["Eat whole, single-ingredient foods as much as possible", "Avoid added sugars, artificial sweeteners, and refined grains", "Choose lean proteins: chicken, fish, legumes, eggs", "Include healthy fats: avocado, olive oil, nuts, seeds", "Drink at least 8 glasses of water daily", "Limit alcohol completely for 7 days"]},
+    {"type": "heading", "level": 2, "text": "Day 1 Sample"},
+    {"type": "paragraph", "text": "Breakfast: Overnight oats with chia seeds, blueberries, and almond butter. Lunch: Large spinach salad with grilled chicken, avocado, cucumber, and lemon-tahini dressing. Snack: Apple with 2 tbsp almond butter. Dinner: Baked salmon with roasted broccoli and quinoa. Total: ~1,650 calories, 120g protein."},
+    {"type": "callout", "variant": "info", "text": "Prep your grains and proteins on Sunday to make weekday meals effortless. Store in glass containers for easy portion control."},
+    {"type": "affiliate_card", "productId": "meal-prep-containers"},
+    {"type": "faq", "items": [
+      {"question": "How many calories is this clean eating plan?", "answer": "Each day averages 1,500–1,800 calories, which is appropriate for most adults seeking moderate weight loss or maintenance. Adjust portion sizes based on your individual calorie needs."},
+      {"question": "Can I swap foods in the meal plan?", "answer": "Yes. The plan is flexible. Swap proteins (e.g. replace chicken with tofu), swap grains (brown rice for quinoa), and swap vegetables freely. Keep portions similar to maintain macros."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["1500-calorie-meal-plan", "healthy-meal-prep-recipes-week", "best-superfoods-for-energy"]
+}

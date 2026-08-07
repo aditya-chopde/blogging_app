@@ -1,0 +1,30 @@
+{
+  "title": "Full-Body Home Workout Plan — Zero Equipment",
+  "slug": "home-workout-plan-no-equipment",
+  "description": "No gym membership? No problem. This complete home workout plan uses only bodyweight exercises to build strength, cardio, and flexibility — no equipment required.",
+  "coverImage": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=1200&q=80",
+  "category": "workout-plans",
+  "date": "2026-07-02",
+  "author": "Jake Reynolds",
+  "readingTime": "8 min read",
+  "tags": ["home workout", "no equipment", "bodyweight", "calisthenics", "full body"],
+  "featured": false,
+  "seo": {
+    "title": "Full-Body Home Workout Plan (No Equipment Needed)",
+    "description": "Complete home workout plan with zero equipment. Build strength and endurance with progressive bodyweight training you can do anywhere."
+  },
+  "pinterest": {"title": "Full-Body Home Workout — No Equipment", "description": "Build a strong body at home with zero equipment."},
+  "content": [
+    {"type": "paragraph", "text": "Your bodyweight is one of the most versatile training tools available. Push-ups, squats, lunges, planks, and pull-ups (using a door frame bar) can build significant muscle and cardiovascular fitness without any equipment."},
+    {"type": "heading", "level": 2, "text": "Weekly Schedule"},
+    {"type": "list", "style": "ul", "items": ["Monday: Push (push-ups, dips, pike push-ups)", "Tuesday: Pull (inverted rows, pull-ups, face pulls with band)", "Wednesday: Active recovery (walk, yoga, mobility)", "Thursday: Legs (squats, lunges, single-leg deadlifts)", "Friday: Core & cardio (planks, mountain climbers, HIIT)", "Weekend: Rest or outdoor activity"]},
+    {"type": "callout", "variant": "tip", "text": "Add a resistance band set to dramatically increase exercise variety and difficulty at home — they are inexpensive and highly effective for upper body and glute work."},
+    {"type": "affiliate_card", "productId": "resistance-bands-set"},
+    {"type": "faq", "items": [
+      {"question": "Can bodyweight training build real muscle?", "answer": "Yes. Bodyweight training can build substantial muscle, especially in the chest, triceps, shoulders, back, and legs. The key is progressive overload: increasing reps, slowing tempo, adding pauses, or progressing to harder variations (e.g. archer push-ups, pistol squats)."},
+      {"question": "How long should a home workout be?", "answer": "Quality over quantity. A focused 25–45 minute session with minimal rest between exercises is more effective than an hour of unfocused training. You can achieve excellent results in 30 minutes with consistent effort."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["30-day-beginner-workout-plan", "best-resistance-bands-review", "cardio-workouts-at-home"]
+}

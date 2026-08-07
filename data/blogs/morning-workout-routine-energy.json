@@ -1,0 +1,29 @@
+{
+  "title": "20-Minute Morning Workout to Boost Energy",
+  "slug": "morning-workout-routine-energy",
+  "description": "A quick 20-minute morning workout routine that wakes up your body, boosts endorphins, and gives you sustained energy for the entire day.",
+  "coverImage": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1200&q=80",
+  "category": "workouts",
+  "date": "2026-06-20",
+  "author": "Jake Reynolds",
+  "readingTime": "5 min read",
+  "tags": ["morning workout", "energy", "20 minutes", "routine", "wake up"],
+  "featured": false,
+  "seo": {
+    "title": "20-Minute Morning Workout Routine for All-Day Energy",
+    "description": "Wake up and energize with this 20-minute morning workout. No equipment needed — boosts mood, metabolism, and mental clarity all day."
+  },
+  "pinterest": {"title": "20-Minute Morning Workout Routine", "description": "A quick morning routine to energize your entire day."},
+  "content": [
+    {"type": "paragraph", "text": "Morning exercise increases core body temperature, elevates cortisol (your natural wake-up hormone), releases mood-boosting endorphins, and primes your metabolism for the rest of the day. Even 20 minutes is enough to trigger these benefits."},
+    {"type": "heading", "level": 2, "text": "The 20-Minute Morning Routine"},
+    {"type": "list", "style": "ol", "items": ["Minutes 1–3: Dynamic warm-up — arm circles, leg swings, hip rotations", "Minutes 4–7: 3 rounds of 30-sec jumping jacks + 30-sec rest", "Minutes 8–11: 3 rounds of 10 push-ups + 10 squats", "Minutes 12–14: 20-second sprint intervals (in place or outside)", "Minutes 15–17: Core — 30-sec plank + 20 bicycle crunches", "Minutes 18–20: Cool-down stretching — hamstrings, chest, shoulders"]},
+    {"type": "callout", "variant": "tip", "text": "Lay out your workout clothes the night before and schedule your alarm 25 minutes earlier. The biggest barrier to morning exercise is not motivation — it is friction."},
+    {"type": "faq", "items": [
+      {"question": "Should I eat before a morning workout?", "answer": "For a 20-minute session, you do not need to eat beforehand. Your glycogen stores from the previous night are sufficient. If you prefer, a banana or small handful of almonds 20 minutes before provides quick energy."},
+      {"question": "Does working out in the morning burn more fat?", "answer": "Fasted morning cardio may burn slightly more fat during the session, but total daily calorie burn and fat loss are not significantly different from evening workouts. Consistency matters far more than timing."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["30-day-beginner-workout-plan", "cardio-workouts-at-home", "easy-high-protein-breakfast-ideas"]
+}

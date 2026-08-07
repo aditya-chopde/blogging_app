@@ -1,0 +1,32 @@
+{
+  "title": "30-Day Beginner Workout Plan (No Gym Required)",
+  "slug": "30-day-beginner-workout-plan",
+  "description": "Build a real fitness habit from scratch with this 30-day beginner workout plan. No equipment needed — just your bodyweight and 30 minutes a day.",
+  "coverImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80",
+  "category": "workout-plans",
+  "date": "2026-07-22",
+  "author": "Jake Reynolds",
+  "readingTime": "9 min read",
+  "tags": ["beginner workout", "30 day", "no gym", "bodyweight", "fitness"],
+  "featured": true,
+  "seo": {
+    "title": "30-Day Beginner Workout Plan — No Gym, No Equipment",
+    "description": "Start your fitness journey with this 30-day beginner workout plan. No equipment needed. Progressive bodyweight workouts with rest days built in."
+  },
+  "pinterest": {"title": "30-Day Beginner Workout Plan (No Gym)", "description": "Build a real fitness habit from scratch — no gym or equipment needed."},
+  "content": [
+    {"type": "paragraph", "text": "The biggest mistake beginners make is starting too hard and burning out in week two. This plan is built around progressive overload — starting easy and gradually increasing volume over 30 days to build sustainable fitness habits."},
+    {"type": "heading", "level": 2, "text": "How the Plan is Structured"},
+    {"type": "list", "style": "ul", "items": ["Week 1: Foundation — 3 workouts, 20 minutes each, focus on form", "Week 2: Build — 4 workouts, 25 minutes, add difficulty progressions", "Week 3: Progress — 4 workouts, 30 minutes, introduce supersets", "Week 4: Peak — 5 workouts, 30 minutes, challenge days"]},
+    {"type": "heading", "level": 2, "text": "Week 1 Workout A (Monday, Wednesday, Friday)"},
+    {"type": "list", "style": "ol", "items": ["10 bodyweight squats", "5 push-ups (from knees if needed)", "15 glute bridges", "10 standing lunges (5 each leg)", "20-second plank hold", "Rest 90 seconds — repeat 2 rounds"]},
+    {"type": "callout", "variant": "tip", "text": "Track your workouts in a notebook or app. Seeing your progress on paper is a powerful motivator and helps you know when to increase the difficulty."},
+    {"type": "affiliate_card", "productId": "resistance-bands-set"},
+    {"type": "faq", "items": [
+      {"question": "How many rest days should a beginner take?", "answer": "Beginners should rest at least 1–2 days between strength training sessions. Muscle growth happens during recovery, not during the workout. This plan includes built-in rest days and lighter active recovery days."},
+      {"question": "When will I start to see results?", "answer": "Most beginners notice improved energy and mood within the first week. Visible muscle tone changes typically appear around week 3–4. Strength gains are often noticeable even faster — within 1–2 weeks."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["home-workout-plan-no-equipment", "best-ab-workouts-flat-stomach", "morning-workout-routine-energy"]
+}

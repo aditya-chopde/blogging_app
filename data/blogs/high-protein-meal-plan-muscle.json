@@ -1,0 +1,31 @@
+{
+  "title": "High-Protein Meal Plan for Muscle Gain",
+  "slug": "high-protein-meal-plan-muscle",
+  "description": "Build lean muscle with this science-backed high-protein meal plan. Includes 3000+ calorie days, macro breakdowns, and timing strategies for optimal muscle growth.",
+  "coverImage": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=1200&q=80",
+  "category": "meal-plans",
+  "date": "2026-06-25",
+  "author": "Dr. Emma Torres",
+  "readingTime": "9 min read",
+  "tags": ["high protein", "muscle gain", "bulking", "meal plan", "strength training"],
+  "featured": true,
+  "seo": {
+    "title": "High-Protein Meal Plan for Muscle Gain (3000 Calories)",
+    "description": "Maximize muscle growth with this high-protein meal plan. Macro targets, meal timing, and supplement recommendations included."
+  },
+  "pinterest": {"title": "High-Protein Meal Plan for Muscle Gain", "description": "Build lean muscle with this science-backed 3000-calorie meal plan."},
+  "content": [
+    {"type": "paragraph", "text": "Muscle protein synthesis requires two things: resistance training stimulus and an adequate supply of dietary protein. Research suggests consuming 1.6–2.2g of protein per kg of bodyweight daily to maximize muscle growth."},
+    {"type": "heading", "level": 2, "text": "Daily Macro Targets (For 80kg / 176lb Person)"},
+    {"type": "list", "style": "ul", "items": ["Calories: 3,000–3,200 (moderate surplus)", "Protein: 160–175g (~2g/kg)", "Carbohydrates: 350–380g (fuel for training)", "Fat: 80–90g (hormone production)"]},
+    {"type": "heading", "level": 2, "text": "Post-Workout Nutrition Window"},
+    {"type": "paragraph", "text": "Consume 30–40g of fast-absorbing protein (whey is ideal) within 60–90 minutes of training. Pair with 50–70g of carbohydrates to replenish glycogen stores and spike insulin for nutrient delivery to muscles."},
+    {"type": "affiliate_card", "productId": "optimum-whey"},
+    {"type": "faq", "items": [
+      {"question": "How many meals should I eat to build muscle?", "answer": "Spread protein intake across 4–5 meals per day, with 30–40g per meal. This maximizes muscle protein synthesis, which has a ceiling per meal of roughly 40g in most people."},
+      {"question": "Do I need supplements to build muscle?", "answer": "No, but protein powder is a convenient tool to hit daily protein targets. Creatine monohydrate is the most well-researched supplement for increasing muscle strength and size — 3–5g daily is effective."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["30-day-beginner-workout-plan", "strength-training-plan-women", "full-body-dumbbell-workout"]
+}

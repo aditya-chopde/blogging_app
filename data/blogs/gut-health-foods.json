@@ -1,0 +1,31 @@
+{
+  "title": "15 Foods That Heal Your Gut",
+  "slug": "gut-health-foods",
+  "description": "Your gut microbiome affects everything from immunity to mood. These 15 science-backed foods feed beneficial bacteria, reduce inflammation, and restore gut lining integrity.",
+  "coverImage": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=1200&q=80",
+  "category": "healthy-foods",
+  "date": "2026-06-22",
+  "author": "Dr. Emma Torres",
+  "readingTime": "7 min read",
+  "tags": ["gut health", "microbiome", "probiotics", "prebiotics", "digestion"],
+  "featured": true,
+  "seo": {
+    "title": "15 Foods That Heal Your Gut Naturally",
+    "description": "Restore and heal your gut with these 15 probiotic and prebiotic-rich foods. Backed by microbiome research."
+  },
+  "pinterest": {"title": "15 Foods That Heal Your Gut", "description": "Restore gut health naturally with these probiotic-rich foods."},
+  "content": [
+    {"type": "paragraph", "text": "The gut microbiome — the trillions of bacteria, fungi, and viruses living in your digestive tract — is now considered a virtual organ. Research links gut health to immunity, mental health, metabolism, skin condition, and even the risk of chronic disease."},
+    {"type": "heading", "level": 2, "text": "Probiotic Foods (Live Beneficial Bacteria)"},
+    {"type": "list", "style": "ul", "items": ["Plain Greek yogurt (look for 'live active cultures')", "Kefir — 30x more probiotics than yogurt", "Kimchi — Korean fermented vegetables, excellent diversity", "Sauerkraut — must be raw, not pasteurized", "Miso — Japanese fermented soybean paste", "Tempeh — fermented soy with both protein and probiotics", "Kombucha — fermented tea (watch added sugar)"]},
+    {"type": "heading", "level": 2, "text": "Prebiotic Foods (Feeds Beneficial Bacteria)"},
+    {"type": "list", "style": "ul", "items": ["Garlic — inulin fiber feeds Lactobacillus and Bifidobacterium", "Onions — quercetin and inulin reduce inflammation", "Asparagus — excellent prebiotic fiber content", "Bananas (slightly underripe) — resistant starch", "Oats — beta-glucan feeds a wide range of beneficial microbes", "Leeks — highest inulin content of any vegetable", "Jerusalem artichoke — the highest prebiotic fiber source"]},
+    {"type": "callout", "variant": "info", "text": "Diversity is key for gut health. Aim for 30 different plant foods per week — research shows this is associated with the greatest microbiome diversity and health outcomes."},
+    {"type": "faq", "items": [
+      {"question": "How long does it take to heal a damaged gut?", "answer": "Minor gut issues (bloating, irregular bowel movements) often improve within 2–4 weeks of consistent dietary changes. More significant gut dysfunction like leaky gut or dysbiosis may take 3–6 months of sustained dietary and lifestyle interventions."},
+      {"question": "Should I take a probiotic supplement?", "answer": "Food-based probiotics are generally more effective than supplements due to greater strain diversity and natural protective environment. However, for specific conditions (IBS, post-antibiotic recovery), targeted probiotic supplements with clinical evidence can be beneficial."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["anti-inflammatory-recipes", "high-fiber-foods-list", "best-superfoods-for-energy"]
+}

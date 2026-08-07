@@ -1,0 +1,30 @@
+{
+  "title": "Best Cardio Workouts You Can Do at Home",
+  "slug": "cardio-workouts-at-home",
+  "description": "No treadmill? No problem. These 8 high-intensity cardio workouts require zero equipment and can be done in any small space for serious calorie burning.",
+  "coverImage": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?w=1200&q=80",
+  "category": "workouts",
+  "date": "2026-07-06",
+  "author": "Jake Reynolds",
+  "readingTime": "6 min read",
+  "tags": ["cardio", "home workout", "no equipment", "fat burning", "aerobic"],
+  "featured": false,
+  "seo": {
+    "title": "8 Best Cardio Workouts to Do at Home (No Equipment)",
+    "description": "Burn calories and improve cardiovascular fitness with these 8 effective home cardio workouts. No equipment or gym needed."
+  },
+  "pinterest": {"title": "Best Home Cardio Workouts", "description": "8 high-intensity cardio workouts you can do at home with zero equipment."},
+  "content": [
+    {"type": "paragraph", "text": "Cardio does not require a gym membership or expensive machines. Your own bodyweight, a small amount of floor space, and high effort can deliver the same cardiovascular benefits as a treadmill session."},
+    {"type": "heading", "level": 2, "text": "8 Effective Home Cardio Workouts"},
+    {"type": "list", "style": "ol", "items": ["Jump Rope Simulation (no rope needed) — 10 minutes", "Tabata Burpees — 4 minutes of maximum effort", "Dance Cardio — 20 minutes to your favorite playlist", "Stair Climbing — 15 minutes using your home stairs", "Shadow Boxing — 15 minutes, great for stress relief too", "Jump Squats + High Knees Circuit — 20 minutes", "Kickboxing AMRAP — 15 minutes maximum rounds", "Low-Impact (joint-friendly): March, Step Touches, Low Kicks — 30 minutes"]},
+    {"type": "callout", "variant": "tip", "text": "Track your heart rate during cardio to ensure you are working in the right zone. Aim for 60–80% of your max heart rate for fat burning (max HR = 220 minus your age)."},
+    {"type": "affiliate_card", "productId": "fitbit-charge6"},
+    {"type": "faq", "items": [
+      {"question": "How much cardio should I do per week?", "answer": "The American Heart Association recommends 150 minutes of moderate cardio or 75 minutes of vigorous cardio per week. For fat loss, aim for 200–300 minutes of moderate activity. Split into 4–5 sessions for best recovery."},
+      {"question": "Is it better to do cardio before or after weights?", "answer": "For fat loss and muscle preservation, do resistance training first and cardio after. Doing cardio first depletes glycogen and can impair your lifting performance and reduce muscle-building signals."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["hiit-workout-plan-fat-loss", "30-day-beginner-workout-plan", "morning-workout-routine-energy"]
+}

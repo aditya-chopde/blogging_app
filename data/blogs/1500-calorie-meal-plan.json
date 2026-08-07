@@ -1,0 +1,32 @@
+{
+  "title": "1500 Calorie Meal Plan for Weight Loss",
+  "slug": "1500-calorie-meal-plan",
+  "description": "A structured 1500-calorie meal plan designed for sustainable weight loss. Includes 5 days of meals with macros, shopping list, and tips.",
+  "coverImage": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&q=80",
+  "category": "meal-plans",
+  "date": "2026-07-12",
+  "author": "Dr. Emma Torres",
+  "readingTime": "8 min read",
+  "tags": ["1500 calorie", "weight loss", "meal plan", "calorie deficit", "diet"],
+  "featured": false,
+  "seo": {
+    "title": "1500 Calorie Meal Plan for Weight Loss (5-Day Guide)",
+    "description": "Structured 1500-calorie meal plan with macros for sustainable weight loss. Full shopping list and prep tips included."
+  },
+  "pinterest": {"title": "1500 Calorie Meal Plan for Weight Loss", "description": "Lose weight without feeling hungry with this structured 1500-calorie plan."},
+  "content": [
+    {"type": "paragraph", "text": "A 1500-calorie daily intake creates a moderate calorie deficit for most adults while still providing sufficient protein, healthy fats, and carbohydrates to fuel daily activities and preserve muscle mass."},
+    {"type": "heading", "level": 2, "text": "Daily Macro Targets"},
+    {"type": "list", "style": "ul", "items": ["Calories: 1,500", "Protein: 120–140g (builds muscle, reduces hunger)", "Carbohydrates: 140–160g (from whole food sources)", "Fat: 50–60g (from olive oil, avocado, nuts)"]},
+    {"type": "callout", "variant": "tip", "text": "Do not drop below 1,200 calories (women) or 1,500 calories (men) without medical supervision. Severe restriction slows metabolism and leads to muscle loss."},
+    {"type": "heading", "level": 2, "text": "Sample Day (1,495 calories)"},
+    {"type": "paragraph", "text": "Breakfast: Greek yogurt (150g) + berries + 1 tbsp honey = 220 cal. Snack: 1 medium apple + 15g almonds = 150 cal. Lunch: Chicken & veggie rice bowl = 480 cal. Snack: Protein shake = 180 cal. Dinner: Baked cod with sweet potato and green beans = 465 cal."},
+    {"type": "affiliate_card", "productId": "optimum-whey"},
+    {"type": "faq", "items": [
+      {"question": "Is 1500 calories too low?", "answer": "For most women, 1500 calories creates a healthy 300–500 calorie deficit. For men, this may be too low. Use a TDEE calculator to find your personal calorie target before following any plan."},
+      {"question": "How fast will I lose weight on 1500 calories?", "answer": "Most people lose 0.5–1 lb (0.2–0.45 kg) per week on a 500-calorie daily deficit, which is the healthiest and most sustainable rate of weight loss."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["7-day-clean-eating-meal-plan", "high-protein-meal-plan-muscle", "best-foods-burn-belly-fat"]
+}

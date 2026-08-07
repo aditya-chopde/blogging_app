@@ -1,0 +1,29 @@
+{
+  "title": "Mediterranean Diet 7-Day Meal Plan",
+  "slug": "mediterranean-diet-meal-plan",
+  "description": "The Mediterranean diet is consistently rated the world's healthiest diet. Follow this 7-day meal plan to experience its benefits for heart health, weight, and longevity.",
+  "coverImage": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80",
+  "category": "meal-plans",
+  "date": "2026-06-18",
+  "author": "Dr. Emma Torres",
+  "readingTime": "8 min read",
+  "tags": ["mediterranean diet", "heart health", "meal plan", "olive oil", "longevity"],
+  "featured": false,
+  "seo": {
+    "title": "7-Day Mediterranean Diet Meal Plan (Beginner Friendly)",
+    "description": "Start the Mediterranean diet with this easy 7-day meal plan. Heart-healthy, delicious meals inspired by the world's healthiest diet."
+  },
+  "pinterest": {"title": "Mediterranean Diet 7-Day Meal Plan", "description": "The world's healthiest diet — made simple with this 7-day plan."},
+  "content": [
+    {"type": "paragraph", "text": "The Mediterranean diet is not just an eating pattern — it is a lifestyle. Originating from the coastal regions of Greece, Italy, and Spain, this diet consistently tops rankings for heart health, cognitive function, and longevity."},
+    {"type": "heading", "level": 2, "text": "Mediterranean Diet Food Pyramid"},
+    {"type": "list", "style": "ul", "items": ["Base (every meal): vegetables, fruits, whole grains, olive oil, beans, nuts, seeds, herbs, spices", "Weekly: fish & seafood (at least 2 times)", "Weekly: poultry, eggs, cheese, yogurt (moderate portions)", "Monthly: red meat (rarely)", "Enjoy: social meals, physical activity, red wine (optional, moderate)"]},
+    {"type": "callout", "variant": "tip", "text": "Use extra virgin olive oil as your primary cooking fat and salad dressing. It is the cornerstone of the Mediterranean diet and rich in heart-protective oleic acid and antioxidants."},
+    {"type": "faq", "items": [
+      {"question": "Can the Mediterranean diet help with weight loss?", "answer": "Yes. Multiple studies show the Mediterranean diet leads to greater weight loss than low-fat diets and is easier to sustain long-term. The high fiber and healthy fat content keeps you naturally satisfied."},
+      {"question": "Is wine required on the Mediterranean diet?", "answer": "No. Red wine is optional and consumed in moderation (one glass for women, up to two for men). If you do not drink, water, herbal tea, and coffee are perfectly aligned with the diet."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["anti-inflammatory-recipes", "7-day-clean-eating-meal-plan", "best-superfoods-for-energy"]
+}

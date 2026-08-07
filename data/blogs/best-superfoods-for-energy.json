@@ -1,0 +1,29 @@
+{
+  "title": "Best Superfoods for All-Day Energy",
+  "slug": "best-superfoods-for-energy",
+  "description": "Forget coffee. These 12 evidence-based superfoods provide sustained, natural energy throughout the day without the crash.",
+  "coverImage": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=1200&q=80",
+  "category": "healthy-foods",
+  "date": "2026-07-18",
+  "author": "Dr. Emma Torres",
+  "readingTime": "7 min read",
+  "tags": ["superfoods", "energy", "fatigue", "nutrition", "healthy eating"],
+  "featured": true,
+  "seo": {
+    "title": "12 Best Superfoods for All-Day Energy (No Crash)",
+    "description": "Discover the 12 best superfoods for sustained natural energy. Backed by science and easy to add to your daily diet."
+  },
+  "pinterest": {"title": "12 Superfoods for All-Day Energy", "description": "Natural energy foods that keep you going without the crash."},
+  "content": [
+    {"type": "paragraph", "text": "The afternoon energy slump is not inevitable — it is usually a sign that your morning nutrition was not setting you up for sustained energy. These 12 superfoods address the root causes of fatigue: blood sugar swings, nutrient deficiencies, and mitochondrial inefficiency."},
+    {"type": "heading", "level": 2, "text": "12 Energy-Boosting Superfoods"},
+    {"type": "list", "style": "ol", "items": ["Matcha green tea — L-theanine + caffeine for calm, focused energy", "Sweet potato — complex carbs for steady blood glucose", "Chia seeds — omega-3s, fiber, and sustained carbs", "Spinach — iron and folate prevent fatigue", "Quinoa — complete protein with all 9 essential amino acids", "Beets — nitrates improve oxygen efficiency in muscles", "Maca root — adaptogenic energy and hormone balance", "Walnuts — omega-3s support brain and mitochondrial function", "Oats — beta-glucan fiber for steady blood sugar", "Salmon — CoQ10 and omega-3s support cellular energy", "Blueberries — antioxidants reduce oxidative fatigue", "Lentils — iron, protein, and slow-burning carbs"]},
+    {"type": "callout", "variant": "tip", "text": "Iron deficiency is the most common nutritional cause of fatigue, especially in women. Pair plant-based iron sources (spinach, lentils) with vitamin C to maximize absorption."},
+    {"type": "faq", "items": [
+      {"question": "What is the fastest natural energy booster?", "answer": "Matcha provides the quickest energy lift — L-theanine and caffeine work synergistically to give you focused alertness within 20–30 minutes without the jitteriness of coffee."},
+      {"question": "Why do I feel tired even after eating?", "answer": "Post-meal fatigue is usually caused by a blood sugar spike followed by a crash. This happens with high-sugar, high-refined-carb meals. Switching to protein + fiber + healthy fat meals dramatically reduces the energy dip after eating."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["gut-health-foods", "high-fiber-foods-list", "anti-inflammatory-recipes"]
+}

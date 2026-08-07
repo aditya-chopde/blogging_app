@@ -1,0 +1,29 @@
+{
+  "title": "Best Plant-Based Protein Sources",
+  "slug": "best-protein-sources-plant-based",
+  "description": "You do not need meat to meet your protein needs. These 10 plant-based protein sources are complete, delicious, and easy to incorporate into any diet.",
+  "coverImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&q=80",
+  "category": "healthy-foods",
+  "date": "2026-06-30",
+  "author": "Sarah Mitchell",
+  "readingTime": "6 min read",
+  "tags": ["plant protein", "vegan", "vegetarian", "protein", "tofu"],
+  "featured": false,
+  "seo": {
+    "title": "10 Best Plant-Based Protein Sources (With Protein Per Serving)",
+    "description": "Top plant-based protein sources ranked by protein content. Perfect for vegans, vegetarians, and anyone reducing meat consumption."
+  },
+  "pinterest": {"title": "Best Plant-Based Protein Sources", "description": "Get all the protein you need from plants with these top sources."},
+  "content": [
+    {"type": "paragraph", "text": "The myth that plant protein is inferior to animal protein has largely been debunked. While some plant proteins are incomplete (lacking certain amino acids), combining diverse plant sources throughout the day — or eating complete sources like quinoa and soy — easily meets all your needs."},
+    {"type": "heading", "level": 2, "text": "Top 10 Plant Proteins Ranked"},
+    {"type": "list", "style": "ol", "items": ["Seitan — 25g per 100g (wheat gluten, high protein)", "Tempeh — 20g per 100g (fermented soy, great gut benefits)", "Edamame — 18g per cup (complete protein)", "Tofu — 15g per 100g (versatile, adapts to any cuisine)", "Lentils — 18g per cooked cup (also high in iron)", "Black beans — 15g per cup (also fiber-rich)", "Chickpeas — 15g per cup (great in salads, curries)", "Quinoa — 8g per cooked cup (complete protein grain)", "Nutritional yeast — 8g per 2 tbsp (cheesy flavor, B12-fortified)", "Hemp seeds — 10g per 3 tbsp (complete protein with omega-3s)"]},
+    {"type": "callout", "variant": "tip", "text": "Nutritional yeast is a secret weapon for plant-based eaters. Sprinkle it on pasta, popcorn, or salads for a cheesy flavor and a boost of protein and B vitamins."},
+    {"type": "faq", "items": [
+      {"question": "Are plant proteins complete proteins?", "answer": "Soy foods (tofu, tempeh, edamame), quinoa, hemp seeds, and buckwheat are complete proteins. Other plant proteins lack one or more essential amino acids but can be combined throughout the day to cover all bases."},
+      {"question": "How do I get 100g of protein on a vegan diet?", "answer": "Combine: 150g tofu (22g) + 1 cup lentils (18g) + 1 cup edamame (18g) + 3 tbsp hemp seeds (10g) + 2 tbsp nutritional yeast (8g) + 1 cup quinoa (8g) = 84g before any other foods in your diet."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["vegan-meal-plan-beginners", "gut-health-foods", "high-fiber-foods-list"]
+}

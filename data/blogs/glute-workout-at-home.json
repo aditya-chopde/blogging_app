@@ -1,0 +1,30 @@
+{
+  "title": "Build a Stronger Glute with These 8 Moves",
+  "slug": "glute-workout-at-home",
+  "description": "The glutes are the largest and most powerful muscle group in the body. These 8 targeted exercises will build rounder, stronger glutes without ever leaving your home.",
+  "coverImage": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=1200&q=80",
+  "category": "workouts",
+  "date": "2026-06-28",
+  "author": "Jake Reynolds",
+  "readingTime": "7 min read",
+  "tags": ["glute workout", "booty", "at home", "resistance bands", "hip thrust"],
+  "featured": false,
+  "seo": {
+    "title": "8 Best Glute Exercises to Build Stronger Glutes at Home",
+    "description": "Build stronger, rounder glutes at home with these 8 targeted exercises. With and without resistance band variations included."
+  },
+  "pinterest": {"title": "8 Moves for Stronger Glutes at Home", "description": "Build rounder, stronger glutes with these 8 home exercises."},
+  "content": [
+    {"type": "paragraph", "text": "The gluteus maximus, medius, and minimus work together for hip extension, abduction, and external rotation. Many people have underactive glutes from sitting all day — a condition called gluteal amnesia. These exercises actively re-engage and strengthen all three glute muscles."},
+    {"type": "heading", "level": 2, "text": "8 Best Glute Exercises"},
+    {"type": "list", "style": "ol", "items": ["Hip Thrust (with shoulder on bench or sofa) — best glute activator", "Glute Bridge — beginner-friendly floor variation", "Bulgarian Split Squat — unilateral strength and balance", "Donkey Kick — isolates gluteus maximus", "Fire Hydrant — targets gluteus medius", "Sumo Squat — wide stance for inner thigh and glute focus", "Step-Up (using stairs or sturdy chair) — functional strength", "Resistance Band Lateral Walk — gluteus medius activation"]},
+    {"type": "callout", "variant": "tip", "text": "Use a resistance band around your knees during hip thrusts and bridges to dramatically increase gluteus medius activation and prevent knee cave."},
+    {"type": "affiliate_card", "productId": "resistance-bands-set"},
+    {"type": "faq", "items": [
+      {"question": "How often should I train my glutes?", "answer": "The glutes are a large, resilient muscle group that can be trained 2–4 times per week with adequate rest. For maximum growth, focus on progressive overload — increase reps, resistance, or range of motion each week."},
+      {"question": "Why are my glutes not growing?", "answer": "Most common reasons: insufficient load/resistance, not training through full range of motion, not eating enough protein, inadequate recovery, or not focusing on the mind-muscle connection to activate glutes rather than letting quads dominate."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["strength-training-plan-women", "home-workout-plan-no-equipment", "best-resistance-bands-review"]
+}

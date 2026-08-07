@@ -1,0 +1,31 @@
+{
+  "title": "Best Running Shoes for Women in 2026",
+  "slug": "best-running-shoes-women",
+  "description": "Finding the right running shoe can mean the difference between injury and a comfortable 10K. Our 2026 guide covers the best running shoes for women across every category.",
+  "coverImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1200&q=80",
+  "category": "workout-gear",
+  "date": "2026-07-05",
+  "author": "Sarah Mitchell",
+  "readingTime": "9 min read",
+  "tags": ["running shoes", "women", "review", "2026", "best running shoes"],
+  "featured": true,
+  "seo": {
+    "title": "Best Running Shoes for Women 2026 — Top Picks by Category",
+    "description": "Find the perfect running shoe with our 2026 women's running shoe guide. Top picks for daily training, racing, trail running, and beginners."
+  },
+  "pinterest": {"title": "Best Running Shoes for Women 2026", "description": "Top running shoes for women — tested and reviewed for every runner."},
+  "content": [
+    {"type": "paragraph", "text": "The best running shoe is the one that fits your foot shape, gait pattern, and running goals. There is no single universally best shoe — what works perfectly for one runner may cause injury in another."},
+    {"type": "heading", "level": 2, "text": "How to Choose a Running Shoe"},
+    {"type": "list", "style": "ul", "items": ["Visit a specialty running store for a gait analysis", "Consider pronation type: neutral, overpronation, or supination", "Match cushioning to your training: high-mileage needs more cushion", "Ensure a thumb-width of space in the toe box", "Try shoes in the evening when feet are slightly larger"]},
+    {"type": "heading", "level": 2, "text": "Best Daily Trainer: Brooks Ghost 16"},
+    {"type": "paragraph", "text": "The Brooks Ghost 16 remains our top pick for everyday training. Its DNA Loft v3 cushioning is both plush and responsive, the fit is consistent across widths, and the durability is exceptional — most runners get 400–500 miles before replacement."},
+    {"type": "affiliate_card", "productId": "brooks-ghost-running"},
+    {"type": "faq", "items": [
+      {"question": "How often should I replace running shoes?", "answer": "Most running shoes last 300–500 miles. Signs it is time to replace: loss of cushioning responsiveness, visible midsole compression, upper wear, or increased aches in your feet, knees, or hips after runs."},
+      {"question": "Do I need a specific running shoe if I walk more than run?", "answer": "Yes. Walking places different stress on the foot than running. Walking shoes are flatter and more flexible at the ball of the foot. If you do both, a neutral running shoe with moderate cushioning works well for either activity."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["best-gym-bags-review", "best-home-gym-equipment", "hiit-workout-plan-fat-loss"]
+}

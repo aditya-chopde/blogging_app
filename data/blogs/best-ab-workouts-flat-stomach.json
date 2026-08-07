@@ -1,0 +1,29 @@
+{
+  "title": "10 Best Ab Workouts for a Flat Stomach",
+  "slug": "best-ab-workouts-flat-stomach",
+  "description": "These 10 science-backed ab exercises target the entire core — not just the superficial rectus abdominis — for a stronger, flatter stomach.",
+  "coverImage": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80",
+  "category": "workouts",
+  "date": "2026-07-20",
+  "author": "Jake Reynolds",
+  "readingTime": "7 min read",
+  "tags": ["abs", "core", "flat stomach", "workout", "plank"],
+  "featured": false,
+  "seo": {
+    "title": "10 Best Ab Workouts for a Flat Stomach (No Crunches Needed)",
+    "description": "Ditch the crunches. These 10 effective ab exercises target all layers of the core for a truly flat, strong stomach."
+  },
+  "pinterest": {"title": "10 Best Ab Workouts for a Flat Stomach", "description": "Effective core exercises for a stronger, flatter stomach."},
+  "content": [
+    {"type": "paragraph", "text": "Traditional crunches only work the superficial rectus abdominis and put unnecessary strain on the neck and lower back. The most effective ab training targets all four layers: rectus abdominis, obliques, transverse abdominis, and the lower back."},
+    {"type": "heading", "level": 2, "text": "The 10 Best Core Exercises"},
+    {"type": "list", "style": "ol", "items": ["Dead Bug — targets deep transverse abdominis", "Plank (and variations) — full core stability", "Pallof Press — anti-rotation core strength", "Ab Wheel Rollout — extreme rectus abdominis challenge", "Hollow Body Hold — gymnastic core compression", "Hanging Leg Raises — hip flexors and lower abs", "Russian Twists — oblique strength and rotation", "Cable Crunches — weighted rectus abdominis training", "Bicycle Crunches — highest EMG activation in studies", "L-Sit Hold — isometric core compression"]},
+    {"type": "callout", "variant": "tip", "text": "Abs are made in the kitchen. Even the most developed core will be hidden under belly fat without a calorie-appropriate diet. Combine core training with overall fat loss for visible results."},
+    {"type": "faq", "items": [
+      {"question": "How often should I train my abs?", "answer": "The core recovers faster than most muscle groups. Training abs 3–4 times per week with 2–4 exercises per session is sufficient. Rest at least one day between sessions."},
+      {"question": "Why are my abs not showing even though I train them?", "answer": "Abdominal definition requires both developed muscles and low enough body fat (typically <15% for women, <12% for men). If your abs are not visible, focus on fat loss through diet rather than more ab exercises."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["hiit-workout-plan-fat-loss", "home-workout-plan-no-equipment", "best-foods-burn-belly-fat"]
+}

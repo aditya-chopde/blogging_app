@@ -1,0 +1,30 @@
+{
+  "title": "21-Day Yoga for Weight Loss Plan",
+  "slug": "yoga-for-weight-loss-plan",
+  "description": "Yoga may not be the fastest calorie burner, but it is one of the most powerful weight management tools available. This 21-day plan uses power yoga to build strength and flexibility.",
+  "coverImage": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
+  "category": "workout-plans",
+  "date": "2026-06-25",
+  "author": "Jake Reynolds",
+  "readingTime": "8 min read",
+  "tags": ["yoga", "weight loss", "21 day", "power yoga", "flexibility"],
+  "featured": false,
+  "seo": {
+    "title": "21-Day Yoga for Weight Loss Plan (Beginner to Intermediate)",
+    "description": "Lose weight and build flexibility with this 21-day yoga plan. Progressive sequences from beginner to intermediate power yoga."
+  },
+  "pinterest": {"title": "21-Day Yoga Weight Loss Plan", "description": "Build strength, flexibility and mindfulness with this 21-day yoga plan."},
+  "content": [
+    {"type": "paragraph", "text": "Yoga for weight loss works through multiple pathways: building muscle (especially with power yoga), reducing cortisol (stress eating is a major cause of weight gain), improving sleep quality, and cultivating mindfulness around food choices."},
+    {"type": "heading", "level": 2, "text": "21-Day Structure"},
+    {"type": "list", "style": "ul", "items": ["Week 1 (Days 1–7): Foundation — beginner flows, sun salutations, basic poses", "Week 2 (Days 8–14): Build — power yoga, held poses, core sequences", "Week 3 (Days 15–21): Flow — vinyasa sequences, inversions, full practice"]},
+    {"type": "callout", "variant": "info", "text": "A good yoga mat is essential for safety and comfort. Non-slip material prevents injury in sweaty power yoga sessions, and adequate thickness protects your joints."},
+    {"type": "affiliate_card", "productId": "manduka-yoga-mat"},
+    {"type": "faq", "items": [
+      {"question": "How many calories does yoga burn?", "answer": "Gentle yoga burns 150–250 calories per hour. Power yoga and Ashtanga can burn 300–450 calories per hour. While lower than HIIT, yoga's cortisol-reducing effects make it uniquely effective for abdominal fat loss."},
+      {"question": "Do I need to be flexible to start yoga?", "answer": "No. Inflexibility is a reason to start yoga, not avoid it. Every pose has beginner modifications, and flexibility improves rapidly with consistent practice."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["best-yoga-mats", "morning-workout-routine-energy", "30-day-beginner-workout-plan"]
+}

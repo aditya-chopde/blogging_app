@@ -1,0 +1,30 @@
+{
+  "title": "Strength Training Plan for Women",
+  "slug": "strength-training-plan-women",
+  "description": "Strength training is the most effective form of exercise for women seeking fat loss, lean muscle, and long-term health. This 4-week plan starts from scratch and builds real strength.",
+  "coverImage": "https://images.unsplash.com/photo-1550345332-09e3ac987658?w=1200&q=80",
+  "category": "workout-plans",
+  "date": "2026-07-08",
+  "author": "Jake Reynolds",
+  "readingTime": "9 min read",
+  "tags": ["strength training", "women", "weight training", "muscle", "fat loss"],
+  "featured": false,
+  "seo": {
+    "title": "Strength Training Plan for Women — 4-Week Beginner Program",
+    "description": "Start lifting weights with this 4-week strength training plan for women. Build lean muscle, burn fat, and boost metabolism with progressive overload."
+  },
+  "pinterest": {"title": "Strength Training Plan for Women", "description": "Build lean muscle and burn fat with this 4-week lifting program."},
+  "content": [
+    {"type": "paragraph", "text": "Women often avoid weight training out of fear of getting 'bulky.' This is a persistent myth. Women produce far less testosterone than men, making it physiologically very difficult to build large muscle mass. What strength training does produce: a lean, toned physique, a stronger metabolism, improved bone density, and better insulin sensitivity."},
+    {"type": "heading", "level": 2, "text": "Program Overview (4 Days Per Week)"},
+    {"type": "list", "style": "ul", "items": ["Day 1: Lower body — squats, deadlifts, lunges, glute bridges", "Day 2: Upper body push — bench press, shoulder press, triceps", "Day 3: Rest or light cardio", "Day 4: Upper body pull — rows, pull-downs, biceps, rear delts", "Day 5: Full body — compound movements and core", "Days 6–7: Rest and recovery"]},
+    {"type": "callout", "variant": "info", "text": "Progressive overload is the most important principle in strength training. Each week, add 2.5–5 lbs to compound lifts or increase reps. Without progressive overload, your body stops adapting."},
+    {"type": "affiliate_card", "productId": "adjustable-dumbbells"},
+    {"type": "faq", "items": [
+      {"question": "Will lifting weights make women look masculine?", "answer": "No. The 'bulky' look comes from very high calorie intake plus years of dedicated training. Women training 3–4 times per week with progressive overload develop a lean, athletic physique, not a bodybuilder's physique."},
+      {"question": "Should women train differently from men?", "answer": "The fundamentals are the same — progressive overload with compound movements. Women tend to recover faster between sets and can often handle higher volume. Many women also benefit from extra glute and hip work for functional strength and aesthetics."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["full-body-dumbbell-workout", "glute-workout-at-home", "high-protein-meal-plan-muscle"]
+}

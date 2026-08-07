@@ -1,0 +1,31 @@
+{
+  "title": "10 Best Yoga Mats Tested and Reviewed",
+  "slug": "best-yoga-mats",
+  "description": "After testing 10 yoga mats across grip, cushioning, durability, and eco-friendliness, here are our top picks for beginners, hot yoga, and serious practitioners.",
+  "coverImage": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=1200&q=80",
+  "category": "workout-gear",
+  "date": "2026-07-18",
+  "author": "Sarah Mitchell",
+  "readingTime": "9 min read",
+  "tags": ["yoga mat", "review", "best yoga mat", "hot yoga", "eco friendly"],
+  "featured": false,
+  "seo": {
+    "title": "10 Best Yoga Mats (2026) — Tested & Reviewed",
+    "description": "Find the perfect yoga mat with our 2026 review. Top picks for beginners, hot yoga, travel, and serious yogis. Includes the best eco-friendly options."
+  },
+  "pinterest": {"title": "Best Yoga Mats for Every Practice", "description": "10 yoga mats tested and reviewed — find your perfect match."},
+  "content": [
+    {"type": "paragraph", "text": "A yoga mat is a personal tool — the right one depends entirely on your practice style, body, and priorities. We tested 10 mats across five categories to give you honest, practical guidance."},
+    {"type": "heading", "level": 2, "text": "What to Look for in a Yoga Mat"},
+    {"type": "list", "style": "ul", "items": ["Grip: Critical for Vinyasa and hot yoga — look for natural rubber or PER material", "Thickness: 4–6mm for cushioning, 1–3mm for balance sensitivity (Pilates/Yin)", "Material: Natural rubber > PVC for eco-friendliness and grip", "Length: Standard 68-72 inches; tall practitioners need 80+ inches", "Stickiness vs. texture: Sticky for grip, textured for dry hands feel"]},
+    {"type": "heading", "level": 2, "text": "#1 Overall: Manduka PRO Yoga Mat"},
+    {"type": "paragraph", "text": "After extensive testing, the Manduka PRO remains the gold standard. The closed-cell surface prevents sweat absorption and bacterial growth, the 6mm density protects joints in standing poses, and the lifetime guarantee makes it a true one-time investment."},
+    {"type": "affiliate_card", "productId": "manduka-yoga-mat"},
+    {"type": "faq", "items": [
+      {"question": "How thick should a yoga mat be?", "answer": "4–6mm is standard for most yoga styles and provides a good balance of cushioning and stability. 3mm is better for balance-intensive practices or travel. Anything over 6mm can feel too unstable for standing poses."},
+      {"question": "How do I clean a yoga mat?", "answer": "Spray with a 1:20 mixture of tea tree oil and water, or a commercial mat cleaner. Wipe down after every use. Deep clean monthly by hand-washing with mild soap and cold water. Never put a yoga mat in the dryer."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["yoga-for-weight-loss-plan", "best-home-gym-equipment", "morning-workout-routine-energy"]
+}

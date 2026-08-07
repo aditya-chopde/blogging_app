@@ -1,0 +1,72 @@
+{
+  "title": "Anti-Inflammatory Recipes to Reduce Bloating",
+  "slug": "anti-inflammatory-recipes",
+  "description": "These 7 anti-inflammatory recipes use science-backed ingredients to reduce chronic inflammation, ease bloating, and improve gut health.",
+  "coverImage": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80",
+  "category": "healthy-recipes",
+  "date": "2026-06-28",
+  "author": "Dr. Emma Torres",
+  "readingTime": "8 min read",
+  "tags": ["anti-inflammatory", "bloating", "gut health", "turmeric", "healthy eating"],
+  "featured": false,
+  "seo": {
+    "title": "7 Anti-Inflammatory Recipes to Reduce Bloating Naturally",
+    "description": "Use food as medicine with these anti-inflammatory recipes. Reduce bloating, improve gut health, and fight chronic inflammation naturally."
+  },
+  "pinterest": {
+    "title": "Anti-Inflammatory Recipes for a Flat Tummy",
+    "description": "7 delicious recipes that fight inflammation and reduce bloating."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Chronic inflammation is at the root of most modern diseases — from heart disease to autoimmune conditions. The foods you eat every day can either fuel that inflammation or fight it. These seven recipes are built around the most powerful anti-inflammatory ingredients available."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top Anti-Inflammatory Ingredients"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Turmeric — contains curcumin, one of the most studied anti-inflammatory compounds",
+        "Ginger — blocks prostaglandins that trigger inflammation",
+        "Salmon & fatty fish — omega-3 fatty acids (EPA/DHA) reduce inflammatory markers",
+        "Blueberries — anthocyanins fight oxidative stress",
+        "Leafy greens — vitamin K and polyphenols reduce NF-kB signaling",
+        "Extra virgin olive oil — oleocanthal has similar effects to ibuprofen"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Golden Turmeric Lentil Soup (Anti-Inflammatory Star)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combine 1 cup red lentils, 1 can coconut milk, 2 cups vegetable broth, 1 tsp turmeric, 1 tsp cumin, fresh ginger, and garlic. Simmer 20 minutes until lentils are soft. This one pot wonder delivers fiber, plant protein, and a potent dose of curcumin."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Always pair turmeric with black pepper — piperine in pepper increases curcumin absorption by up to 2000%."
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What foods should I avoid to reduce inflammation?",
+          "answer": "Limit refined sugars, processed vegetable oils (soybean, corn), refined grains, processed meats, and excess alcohol — these are the primary dietary drivers of inflammation."
+        },
+        {
+          "question": "How quickly do anti-inflammatory foods work?",
+          "answer": "Some people notice reduced bloating and improved energy within 3–5 days of consistent anti-inflammatory eating. Full systemic benefits typically appear after 4–8 weeks."
+        }
+      ]
+    }
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["gut-health-foods", "best-superfoods-for-energy", "mediterranean-diet-meal-plan"]
+}

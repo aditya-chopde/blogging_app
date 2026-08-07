@@ -1,0 +1,76 @@
+{
+  "title": "Best Smoothie Bowl Recipes for Energy",
+  "slug": "smoothie-bowl-recipes",
+  "description": "These 6 Instagram-worthy smoothie bowl recipes are packed with vitamins, minerals, and natural energy to kickstart your morning.",
+  "coverImage": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=1200&q=80",
+  "category": "healthy-recipes",
+  "date": "2026-06-20",
+  "author": "Sarah Mitchell",
+  "readingTime": "5 min read",
+  "tags": ["smoothie bowl", "breakfast", "vegan", "energy", "acai"],
+  "featured": false,
+  "seo": {
+    "title": "6 Best Smoothie Bowl Recipes for Energy & Nutrition",
+    "description": "Beautiful, nutrient-packed smoothie bowl recipes for breakfast. From acai to mango, these bowls are as delicious as they look."
+  },
+  "pinterest": {
+    "title": "Beautiful Smoothie Bowl Recipes to Try",
+    "description": "6 thick, creamy smoothie bowl recipes packed with energy."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A great smoothie bowl is thick enough to eat with a spoon and topped with enough crunch to make breakfast feel like a treat. The key is using frozen fruit as the base and keeping liquid minimal — typically no more than 1/4 cup."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The 6 Best Smoothie Bowl Bases"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Acai Bowl — frozen acai, banana, mixed berries",
+        "Mango Turmeric Bowl — frozen mango, coconut milk, turmeric",
+        "Pitaya (Dragon Fruit) Bowl — frozen pitaya, pineapple, coconut water",
+        "Green Goddess Bowl — spinach, mango, banana, spirulina",
+        "Peanut Butter Chocolate Bowl — banana, cacao, peanut butter, almond milk",
+        "Berry Beet Bowl — frozen berries, roasted beet, banana"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "For a thick bowl, freeze your bananas the night before and use a high-powered blender. Add liquid one tablespoon at a time until just blended."
+    },
+    {
+      "type": "affiliate_card",
+      "productId": "ninja-blender"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Classic Acai Bowl Recipe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blend one 100g packet frozen acai with 1 frozen banana, a handful of frozen blueberries, and 3 tbsp almond milk until ultra-thick. Pour into a chilled bowl and top with granola, sliced banana, fresh berries, coconut flakes, and a drizzle of honey. Serve immediately."
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I keep my smoothie bowl thick?",
+          "answer": "Use mostly frozen fruit, minimal liquid (2–4 tbsp max), and a powerful blender. Chill your bowl in the freezer for 5 minutes before serving to keep it thick longer."
+        },
+        {
+          "question": "Are smoothie bowls healthy for weight loss?",
+          "answer": "They can be, but watch toppings like granola, nut butter, and honey which add up quickly. Keep a smoothie bowl under 450 calories by using 1 tbsp of each topping and skipping sweetened granola."
+        }
+      ]
+    }
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["easy-high-protein-breakfast-ideas", "best-superfoods-for-energy", "gut-health-foods"]
+}

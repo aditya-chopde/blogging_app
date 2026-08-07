@@ -1,0 +1,122 @@
+[
+  {
+    "id": "optimum-whey",
+    "name": "Optimum Nutrition Gold Standard Whey",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&q=80",
+    "description": "The world's best-selling whey protein powder with 24g of protein per serving and exceptional mixability.",
+    "benefits": ["24g protein per serving", "Fast-absorbing whey isolate", "Low sugar & fat", "120+ flavors available"],
+    "pros": ["Great taste", "Mixes easily", "Trusted brand", "Affordable per serving"],
+    "rating": 4.8,
+    "price": "$59.99",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B001MS5PSW"
+  },
+  {
+    "id": "resistance-bands-set",
+    "name": "Fit Simplify Resistance Loop Bands",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&q=80",
+    "description": "Set of 5 resistance bands with varying tension levels, perfect for home workouts and physical therapy.",
+    "benefits": ["5 resistance levels", "Non-slip latex", "Portable & lightweight", "For all fitness levels"],
+    "pros": ["Great value", "Durable latex", "Comes with carry bag", "Beginner-friendly"],
+    "rating": 4.7,
+    "price": "$13.95",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B01AVDVHTI"
+  },
+  {
+    "id": "manduka-yoga-mat",
+    "name": "Manduka PRO Yoga Mat",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=400&q=80",
+    "description": "The gold standard of yoga mats — ultra-dense 6mm cushioning with a lifetime guarantee.",
+    "benefits": ["6mm ultra-dense cushioning", "Lifetime guarantee", "Eco-certified materials", "Non-slip surface"],
+    "pros": ["Extremely durable", "Great grip", "Worth the investment", "Zero off-gassing"],
+    "rating": 4.9,
+    "price": "$88.00",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B08YWQ4P5M"
+  },
+  {
+    "id": "ninja-blender",
+    "name": "Ninja Professional Plus Blender",
+    "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&q=80",
+    "description": "1400-peak-watt blender with Auto-iQ technology, perfect for smoothies and protein shakes.",
+    "benefits": ["1400-peak watts", "Auto-iQ technology", "72oz total crushing pitcher", "BPA-free"],
+    "pros": ["Crushes ice perfectly", "Easy to clean", "Quiet motor", "Versatile"],
+    "rating": 4.7,
+    "price": "$89.99",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B09D7ZQP97"
+  },
+  {
+    "id": "meal-prep-containers",
+    "name": "Prep Naturals Glass Meal Prep Containers",
+    "image": "https://images.unsplash.com/photo-1606914469633-bd3cfcc845f1?w=400&q=80",
+    "description": "Set of 20 glass containers with locking lids — microwave, oven, and dishwasher safe.",
+    "benefits": ["20-piece set", "Borosilicate glass", "Leak-proof lids", "Microwave & oven safe"],
+    "pros": ["No plastic leaching", "Lasts for years", "Great seal", "Stackable"],
+    "rating": 4.6,
+    "price": "$39.99",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B08LFHKQMQ"
+  },
+  {
+    "id": "fitbit-charge6",
+    "name": "Fitbit Charge 6 Fitness Tracker",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&q=80",
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and Google Maps integration.",
+    "benefits": ["Built-in GPS", "24/7 heart rate tracking", "Google Maps & Wallet", "7-day battery life"],
+    "pros": ["Accurate tracking", "Slim design", "Great app", "Sleep tracking"],
+    "rating": 4.5,
+    "price": "$139.95",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B0CDR8GYVW"
+  },
+  {
+    "id": "brooks-ghost-running",
+    "name": "Brooks Ghost 16 Running Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+    "description": "The most trusted neutral running shoe with responsive DNA Loft cushioning for everyday training.",
+    "benefits": ["DNA Loft v3 cushioning", "3D Fit Print upper", "Neutral support", "Versatile daily trainer"],
+    "pros": ["Incredibly comfortable", "Durable outsole", "True to size", "Smooth transitions"],
+    "rating": 4.8,
+    "price": "$130.00",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B0CGXVR99M"
+  },
+  {
+    "id": "adjustable-dumbbells",
+    "name": "Bowflex SelectTech 552 Adjustable Dumbbells",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400&q=80",
+    "description": "Replace 15 sets of weights with these dial-adjustable dumbbells, from 5 to 52.5 lbs each.",
+    "benefits": ["5 to 52.5 lbs each", "Replaces 15 sets", "Dial adjustment system", "Space-saving design"],
+    "pros": ["Quick weight changes", "Excellent build quality", "Great for home gyms", "Compact"],
+    "rating": 4.7,
+    "price": "$379.00",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B001ARYU58"
+  },
+  {
+    "id": "garden-of-life-vitamins",
+    "name": "Garden of Life Vitamin Code Men/Women",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&q=80",
+    "description": "Whole food multivitamin with raw, organic ingredients — no binders, fillers, or artificial flavors.",
+    "benefits": ["Raw whole food ingredients", "Probiotics & enzymes", "Non-GMO Verified", "Certified vegan"],
+    "pros": ["Highly absorbable", "Clean ingredients", "Trusted brand", "Great energy boost"],
+    "rating": 4.6,
+    "price": "$35.99",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B00280EEXM"
+  },
+  {
+    "id": "gym-bag-adidas",
+    "name": "Adidas Defender 4 Medium Duffel Bag",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80",
+    "description": "Spacious and durable gym bag with separate shoe compartment and multiple pockets.",
+    "benefits": ["Separate shoe compartment", "Multiple zip pockets", "Water-resistant bottom", "Shoulder strap included"],
+    "pros": ["Plenty of room", "Lightweight", "Great quality zippers", "Stylish design"],
+    "rating": 4.6,
+    "price": "$35.00",
+    "button": "Check Price on Amazon",
+    "affiliate": "https://amazon.com/dp/B08P1FYJHV"
+  }
+]

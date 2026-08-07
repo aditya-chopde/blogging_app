@@ -1,0 +1,106 @@
+{
+  "title": "Easy High Protein Breakfast Ideas to Fuel Your Morning",
+  "slug": "easy-high-protein-breakfast-ideas",
+  "description": "Start your day strong with these 10 easy high-protein breakfast ideas that are quick to prepare and packed with nutrients to keep you full for hours.",
+  "coverImage": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=1200&q=80",
+  "category": "healthy-recipes",
+  "date": "2026-07-15",
+  "author": "Sarah Mitchell",
+  "readingTime": "7 min read",
+  "tags": ["high protein", "breakfast", "meal prep", "weight loss", "quick recipes"],
+  "featured": true,
+  "seo": {
+    "title": "10 Easy High Protein Breakfast Ideas (Quick & Delicious)",
+    "description": "Looking for high protein breakfast ideas? These 10 quick recipes deliver 20-40g of protein to fuel your morning and keep hunger at bay."
+  },
+  "pinterest": {
+    "title": "High Protein Breakfast Ideas That Actually Taste Good",
+    "description": "10 quick, delicious high-protein breakfasts ready in under 15 minutes."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A protein-rich breakfast is one of the most powerful habits you can build. Studies consistently show that eating at least 25–30g of protein at breakfast reduces hunger hormones, improves satiety, and can even boost metabolism throughout the day."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Protein at Breakfast Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike carbohydrates, protein takes longer to digest and triggers the release of satiety hormones like peptide YY and GLP-1. This keeps you feeling full until lunch without the energy crash that comes from a carb-heavy breakfast."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Aim for at least 25–30g of protein at breakfast to maximize satiety and muscle protein synthesis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "10 High-Protein Breakfast Ideas"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Greek Yogurt Parfait with berries and granola (25g protein)",
+        "Scrambled Egg & Avocado Toast with 3 eggs (22g protein)",
+        "Cottage Cheese Bowl with pineapple and chia seeds (28g protein)",
+        "Protein Smoothie with whey, banana, and almond butter (35g protein)",
+        "Overnight Oats with protein powder and almonds (30g protein)",
+        "Turkey & Veggie Egg Muffins — batch-cooked for the week (18g protein)",
+        "Smoked Salmon on whole-grain toast with cream cheese (24g protein)",
+        "Tofu Scramble with spinach, turmeric, and nutritional yeast (20g protein)",
+        "Nut Butter Protein Waffles made with oat flour (27g protein)",
+        "Chia Pudding with hemp seeds and protein powder (22g protein)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quick Protein Smoothie Recipe (35g Protein)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blend 1 scoop vanilla whey protein, 1 banana, 1 tbsp almond butter, 1 cup unsweetened almond milk, and a handful of spinach. You will not taste the spinach, and it adds iron and folate without any extra calories."
+    },
+    {
+      "type": "affiliate_card",
+      "productId": "optimum-whey"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Meal Prep Tips for Busy Mornings"
+    },
+    {
+      "type": "paragraph",
+      "text": "The biggest barrier to a healthy breakfast is time. Spend 30 minutes on Sunday preparing egg muffins, overnight oats, and chia pudding in portions. Store them in glass containers in the fridge, and you will have a grab-and-go protein breakfast every day of the week."
+    },
+    {
+      "type": "affiliate_card",
+      "productId": "meal-prep-containers"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How much protein should I eat at breakfast?",
+          "answer": "Research suggests aiming for 25–40g of protein at breakfast to optimize muscle protein synthesis and reduce hunger throughout the day."
+        },
+        {
+          "question": "What are the best protein sources for breakfast?",
+          "answer": "Eggs, Greek yogurt, cottage cheese, whey protein powder, smoked salmon, turkey, tofu, and legumes are all excellent high-protein breakfast staples."
+        },
+        {
+          "question": "Can I eat protein powder for breakfast?",
+          "answer": "Absolutely. Protein powder is a convenient and effective way to hit your protein targets. Mix it into smoothies, overnight oats, or pancake batter."
+        }
+      ]
+    }
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["healthy-meal-prep-recipes-week", "smoothie-bowl-recipes", "7-day-clean-eating-meal-plan"]
+}

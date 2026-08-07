@@ -1,0 +1,30 @@
+{
+  "title": "30-Day Vegan Meal Plan for Beginners",
+  "slug": "vegan-meal-plan-beginners",
+  "description": "New to plant-based eating? This 30-day vegan meal plan for beginners takes you week by week through balanced, protein-rich vegan meals that are easy to prepare.",
+  "coverImage": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&q=80",
+  "category": "meal-plans",
+  "date": "2026-07-01",
+  "author": "Dr. Emma Torres",
+  "readingTime": "10 min read",
+  "tags": ["vegan", "plant-based", "meal plan", "beginners", "30 day"],
+  "featured": false,
+  "seo": {
+    "title": "30-Day Vegan Meal Plan for Beginners (Easy & Balanced)",
+    "description": "Start your plant-based journey with this 30-day vegan meal plan for beginners. Balanced macros, easy recipes, and complete shopping lists."
+  },
+  "pinterest": {"title": "30-Day Vegan Meal Plan for Beginners", "description": "Everything you need to go plant-based for a whole month."},
+  "content": [
+    {"type": "paragraph", "text": "Going vegan does not mean giving up satisfying, protein-rich meals. The key is understanding which plant foods are highest in protein and how to combine them to get all essential amino acids."},
+    {"type": "heading", "level": 2, "text": "Best Vegan Protein Sources"},
+    {"type": "list", "style": "ul", "items": ["Tempeh — 20g protein per 100g", "Edamame — 18g protein per cup", "Lentils — 18g protein per cooked cup", "Tofu — 15g protein per 100g", "Black beans — 15g protein per cup", "Chickpeas — 15g protein per cup", "Seitan — 25g protein per 100g"]},
+    {"type": "callout", "variant": "info", "text": "Supplement with B12, Vitamin D3, and Omega-3 (algae-based) when following a fully vegan diet, as these nutrients are difficult to obtain from plant foods alone."},
+    {"type": "affiliate_card", "productId": "garden-of-life-vitamins"},
+    {"type": "faq", "items": [
+      {"question": "How do vegans get enough protein?", "answer": "By eating diverse plant proteins throughout the day: legumes, tofu, tempeh, seitan, edamame, and protein-rich grains like quinoa and amaranth. Aim for 0.8–1g of protein per kg of body weight."},
+      {"question": "Is a vegan diet expensive?", "answer": "It does not have to be. Staples like lentils, beans, oats, and frozen vegetables are among the cheapest foods available. The cost increases when buying specialty vegan products, which are not necessary."}
+    ]}
+  ],
+  "affiliateProducts": [],
+  "relatedSlugs": ["best-protein-sources-plant-based", "gut-health-foods", "7-day-clean-eating-meal-plan"]
+}
