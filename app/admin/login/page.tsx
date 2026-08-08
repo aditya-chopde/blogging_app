@@ -98,10 +98,6 @@ function LoginForm() {
             </button>
           </form>
         </div>
-
-        <p className="text-center text-xs text-muted-foreground mt-6">
-          Set the <code className="bg-muted px-1 py-0.5 rounded">ADMIN_PASSWORD</code> environment variable
-        </p>
       </div>
     </div>
   )
