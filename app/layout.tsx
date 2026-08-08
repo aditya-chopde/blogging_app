@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   description:
     'Healthy Worm is your go-to resource for healthy recipes, meal plans, workout guides, and the best fitness gear. Live healthier, one day at a time.',
-  metadataBase: new URL('https://healthyworm.com'),
+  metadataBase: new URL('https://healthy-worm.vercel.app'),
   openGraph: {
     type: 'website',
     siteName: 'Healthy Worm',
@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     site: '@healthyworm',
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: "Qoe_egrVfSgHH9TkOjOIpm195-Let32OH5ckhoz8G14",
+  },
 }
 
 export const viewport: Viewport = {
