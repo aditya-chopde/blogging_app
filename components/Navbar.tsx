@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useState, useEffect } from 'react'
-import { Menu, X, Search, Leaf } from 'lucide-react'
+import { Menu, X, Search, Leaf, BookOpen } from 'lucide-react'
 
 const CATEGORIES = [
   { label: 'Healthy Recipes', slug: 'healthy-recipes' },
@@ -60,6 +60,13 @@ export default function Navbar() {
           {/* Right icons */}
           <div className="flex items-center gap-2">
             <Link
+              href="/free-recipes"
+              className="hidden sm:inline-flex items-center gap-1.5 bg-primary text-primary-foreground hover:bg-primary/90 text-xs font-semibold px-3.5 py-2 rounded-full transition-all duration-200 shadow-xs"
+            >
+              <BookOpen className="w-3.5 h-3.5" />
+              <span>Free Ebook</span>
+            </Link>
+            <Link
               href="/search"
               className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent/60 transition-all"
               aria-label="Search"
@@ -81,6 +88,14 @@ export default function Navbar() {
         {mobileOpen && (
           <div className="lg:hidden border-t border-border pb-4 pt-2">
             <nav className="flex flex-col gap-1">
+              <Link
+                href="/free-recipes"
+                onClick={() => setMobileOpen(false)}
+                className="mx-3 mb-2 px-4 py-2.5 bg-primary text-primary-foreground text-sm font-semibold rounded-xl flex items-center justify-center gap-2 text-center"
+              >
+                <BookOpen className="w-4 h-4" />
+                <span>Get Free Recipe Ebook</span>
+              </Link>
               {CATEGORIES.map((cat) => (
                 <Link
                   key={cat.slug}

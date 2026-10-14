@@ -1,0 +1,35 @@
+[
+  {
+    "id": "email-1792004180300-8lyw9",
+    "to": "adityachopde27@gmail.com",
+    "name": "Aditya Chopde",
+    "subject": "Your Free Healthy High-Protein Recipe Ebook Is Here!",
+    "sentAt": "2026-10-14T18:56:20.301Z",
+    "pdfAttached": true,
+    "pdfFileName": "10-Healthy-High-Protein-Recipes-HealthyWorm.pdf",
+    "status": "delivered",
+    "messageId": "selfhosted-email-1792004180300-8lyw9"
+  },
+  {
+    "id": "email-1792003566391-yiqfc",
+    "to": "user-noconsent-1792003566384@example.com",
+    "name": "No Consent User",
+    "subject": "Your Free Healthy High-Protein Recipe Ebook Is Here!",
+    "sentAt": "2026-10-14T18:46:06.392Z",
+    "pdfAttached": true,
+    "pdfFileName": "10-Healthy-High-Protein-Recipes-HealthyWorm.pdf",
+    "status": "delivered",
+    "messageId": "selfhosted-email-1792003566391-yiqfc"
+  },
+  {
+    "id": "email-1792003455762-ylfos",
+    "to": "user-noconsent-1792003455730@example.com",
+    "name": "No Consent User",
+    "subject": "Your Free Healthy High-Protein Recipe Ebook Is Here!",
+    "sentAt": "2026-10-14T18:44:15.762Z",
+    "pdfAttached": true,
+    "pdfFileName": "10-Healthy-High-Protein-Recipes-HealthyWorm.pdf",
+    "status": "delivered",
+    "messageId": "selfhosted-email-1792003455762-ylfos"
+  }
+]

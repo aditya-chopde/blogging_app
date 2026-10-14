@@ -6,7 +6,7 @@ import ArticleCard from '@/components/ArticleCard'
 import NewsletterSection from '@/components/NewsletterSection'
 import { getFeaturedPosts, getLatestPosts, getTrendingPosts } from '@/lib/posts'
 import Link from 'next/link'
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, BookOpen } from 'lucide-react'
 
 export default function HomePage() {
   const featured = getFeaturedPosts(6)
@@ -108,6 +108,35 @@ export default function HomePage() {
                   </div>
                 </div>
               </aside>
+            </div>
+          </div>
+        </section>
+
+        {/* Promotional Ebook Lead Magnet Banner */}
+        <section aria-label="Free Recipe Ebook Promo" className="py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6">
+            <div className="bg-gradient-to-r from-[#2E5A44] to-[#1E3B2C] text-white rounded-3xl p-8 sm:p-12 shadow-sm flex flex-col md:flex-row items-center justify-between gap-8">
+              <div className="max-w-xl space-y-3 text-center md:text-left">
+                <span className="inline-block bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">
+                  Free Digital Guide
+                </span>
+                <h2 className="font-serif text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight">
+                  10 Healthy High-Protein Recipes You&apos;ll Actually Want to Eat
+                </h2>
+                <p className="text-white/80 text-sm sm:text-base leading-relaxed">
+                  Discover delicious, easy-to-make recipes with simple ingredients, complete macros, and a grocery shopping checklist.
+                </p>
+              </div>
+
+              <div className="flex-shrink-0">
+                <Link
+                  href="/free-recipes"
+                  className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-stone-900 font-bold text-sm sm:text-base px-7 py-3.5 rounded-full transition-all duration-200 shadow-md hover:scale-105"
+                >
+                  <BookOpen className="w-4 h-4" />
+                  <span>Get My Free Ebook</span>
+                </Link>
+              </div>
             </div>
           </div>
         </section>

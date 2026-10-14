@@ -53,6 +53,7 @@ export default function Footer() {
             <h3 className="font-serif text-base font-semibold mb-4 text-primary-foreground">More</h3>
             <ul className="flex flex-col gap-2">
               {[
+                { label: 'Free Recipe Ebook', href: '/free-recipes' },
                 { label: 'About', href: '/about' },
                 { label: 'Privacy Policy', href: '/privacy' },
                 { label: 'Affiliate Disclosure', href: '/affiliate-disclosure' },

@@ -10,6 +10,7 @@ import {
   LogOut,
   Leaf,
   ChevronRight,
+  Users,
 } from 'lucide-react'
 
 const NAV = [
@@ -17,6 +18,7 @@ const NAV = [
   { href: '/admin/posts', label: 'All Posts', icon: FileText },
   { href: '/admin/editor', label: 'New Post', icon: PenSquare },
   { href: '/admin/affiliates', label: 'Affiliates', icon: ShoppingBag },
+  { href: '/admin/subscribers', label: 'Ebook Leads', icon: Users },
 ]
 
 export default function AdminSidebar() {
