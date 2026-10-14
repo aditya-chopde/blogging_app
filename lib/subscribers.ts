@@ -44,7 +44,8 @@ function ensureFileExists() {
 export function getAllSubscribers(): Subscriber[] {
   ensureFileExists()
   try {
-    const raw = fs.readFileSync(SUBSCRIBERS_FILE, 'utf-8')
+    const raw = fs.readFileSync(SUBSCRIBERS_FILE, 'utf-8').trim()
+    if (!raw) return []
     const parsed = JSON.parse(raw)
     return Array.isArray(parsed) ? (parsed as Subscriber[]) : []
   } catch (err) {

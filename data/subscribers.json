@@ -68,23 +68,6 @@
     "unsubscribedAt": "2026-10-11T18:40:59.046Z"
   },
   {
-    "id": "81e5eb7a-f69b-4a77-9f83-29a07c1f0552",
-    "email": "adityachopde27@gmail.com",
-    "firstName": "Aditya Chopde",
-    "marketingConsent": true,
-    "consentTimestamp": "2026-10-14T18:38:16.240Z",
-    "source": "free-recipes-landing",
-    "ebookDeliveryStatus": "delivered",
-    "ebookDeliveredAt": "2026-10-14T18:56:20.304Z",
-    "downloadToken": "1bfeaabfb2fba5c65250b7521f4e30683e458123720b750f",
-    "downloadTokenExpiresAt": 1792608980297,
-    "downloadCount": 0,
-    "unsubscribeToken": "f85e0a07e8d2f9e4c6872790dc83de493d622e72f39a4be8",
-    "createdAt": "2026-10-14T18:38:16.240Z",
-    "updatedAt": "2026-10-14T18:56:20.304Z",
-    "unsubscribedAt": null
-  },
-  {
     "id": "3e4e8e14-c1d3-4115-bbab-cb9443823c12",
     "email": "user-noconsent-1792003455730@example.com",
     "firstName": "No Consent User",
@@ -185,5 +168,22 @@
     "createdAt": "2026-10-14T18:46:06.387Z",
     "updatedAt": "2026-10-14T18:46:06.390Z",
     "unsubscribedAt": "2026-10-14T18:46:06.390Z"
+  },
+  {
+    "id": "adece382-8527-4784-a4ab-4a761cfad434",
+    "email": "adityachopde27@gmail.com",
+    "firstName": "Aditya Chopde",
+    "marketingConsent": true,
+    "consentTimestamp": "2026-10-14T19:29:19.023Z",
+    "source": "free-recipes-landing",
+    "ebookDeliveryStatus": "delivered",
+    "ebookDeliveredAt": "2026-10-14T19:29:22.779Z",
+    "downloadToken": "1f92e115a4f7a84be7b4eb366faace33d0a2a28cbc095a5f",
+    "downloadTokenExpiresAt": 1792610959023,
+    "downloadCount": 1,
+    "unsubscribeToken": "2171b474e928f73c6ff5b59305b9657df48939b8b99cabbf",
+    "createdAt": "2026-10-14T19:29:19.023Z",
+    "updatedAt": "2026-10-14T19:30:16.626Z",
+    "unsubscribedAt": null
   }
 ]

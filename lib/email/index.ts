@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import nodemailer from 'nodemailer'
+import nodemailer, { type SendMailOptions } from 'nodemailer'
 import type { Subscriber } from '../subscribers'
 import type { EmailSendResult } from './types'
 
@@ -32,7 +32,8 @@ function ensureOutboxExists() {
 export function getAllOutboxEmails(): OutboxEmail[] {
   ensureOutboxExists()
   try {
-    const raw = fs.readFileSync(OUTBOX_FILE, 'utf-8')
+    const raw = fs.readFileSync(OUTBOX_FILE, 'utf-8').trim()
+    if (!raw) return []
     const parsed = JSON.parse(raw)
     return Array.isArray(parsed) ? (parsed as OutboxEmail[]) : []
   } catch (err) {
@@ -236,7 +237,7 @@ To manage email preferences or unsubscribe: ${unsubscribeUrl}`
   // 1. If SMTP transporter is configured, send via SMTP with PDF attachment
   if (transporter) {
     try {
-      const mailOptions: nodemailer.SendMailOptions = {
+      const mailOptions: SendMailOptions = {
         from: `"${brandName}" <${senderEmail}>`,
         to: subscriber.firstName ? `"${subscriber.firstName}" <${subscriber.email}>` : subscriber.email,
         subject,
