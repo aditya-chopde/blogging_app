@@ -62,15 +62,23 @@ function getSiteUrl(): string {
 
 /**
  * Creates SMTP transporter if SMTP environment variables are configured.
- * Works with standard SMTP (Gmail, custom domain SMTP, Sendmail, cPanel, etc.)
+ * Works with Gmail (via service: 'gmail' or SMTP), custom domain SMTP, etc.
  */
 function createTransporter() {
-  const host = process.env.SMTP_HOST
-  const port = process.env.SMTP_PORT ? Number(process.env.SMTP_PORT) : 587
   const user = process.env.SMTP_USER
-  const pass = process.env.SMTP_PASS
+  // Automatically strip spaces if user pasted an app password like 'abcd efgh ijkl mnop'
+  const pass = process.env.SMTP_PASS?.replace(/\s+/g, '')
+  const host = process.env.SMTP_HOST || 'smtp.gmail.com'
+  const port = process.env.SMTP_PORT ? Number(process.env.SMTP_PORT) : 465
 
-  if (host && user && pass) {
+  if (user && pass) {
+    if (host.includes('gmail') || user.endsWith('@gmail.com')) {
+      return nodemailer.createTransport({
+        service: 'gmail',
+        auth: { user, pass },
+      })
+    }
+
     return nodemailer.createTransport({
       host,
       port,
